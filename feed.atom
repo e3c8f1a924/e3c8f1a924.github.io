@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bambusoideae.cn/</id>
+    <title>Bambusoideae&apos;s Blog</title>
+    <updated>2021-01-02T00:44:15.938Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://bambusoideae.cn/"/>
+    <link rel="self" href="https://bambusoideae.cn/feed.atom"/>
+    <subtitle>一个专门存放 OI 方面的博文的博客。</subtitle>
+    <entry>
+        <title type="html"><![CDATA[CSP-S 2019游记]]></title>
+        <id>https://bambusoideae.cn/2019/11/24/csp-s-2019/</id>
+        <link href="https://bambusoideae.cn/2019/11/24/csp-s-2019/">
+        </link>
+        <updated>2019-11-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[算是打酱油吧。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的第二个博客]]></title>
+        <id>https://bambusoideae.cn/2019/06/01/my-second-blog/</id>
+        <link href="https://bambusoideae.cn/2019/06/01/my-second-blog/">
+        </link>
+        <updated>2019-05-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[博客介绍。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSP-J 2019游记]]></title>
+        <id>https://bambusoideae.cn/2019/11/24/csp-j-2019/</id>
+        <link href="https://bambusoideae.cn/2019/11/24/csp-j-2019/">
+        </link>
+        <updated>2019-11-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[梦开始的地方。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[树状数组学习笔记]]></title>
+        <id>https://bambusoideae.cn/2019/06/08/bit/</id>
+        <link href="https://bambusoideae.cn/2019/06/08/bit/">
+        </link>
+        <updated>2019-06-07T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git教程]]></title>
+        <id>https://bambusoideae.cn/2019/07/08/how-to-use-git/</id>
+        <link href="https://bambusoideae.cn/2019/07/08/how-to-use-git/">
+        </link>
+        <updated>2019-07-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git的基本配置与使用。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Solution]日志分析]]></title>
+        <id>https://bambusoideae.cn/2020/01/19/luogu-p1165/</id>
+        <link href="https://bambusoideae.cn/2020/01/19/luogu-p1165/">
+        </link>
+        <updated>2020-01-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Luogu P1165]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[各种Emoji的HTML代码]]></title>
+        <id>https://bambusoideae.cn/2019/08/17/emoji/</id>
+        <link href="https://bambusoideae.cn/2019/08/17/emoji/">
+        </link>
+        <updated>2019-08-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[教您在HTML页面中优雅地使用Emoji。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFT&NTT]]></title>
+        <id>https://bambusoideae.cn/2020/02/21/fft-and-ntt/</id>
+        <link href="https://bambusoideae.cn/2020/02/21/fft-and-ntt/">
+        </link>
+        <updated>2020-02-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FFT and NTT]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[莫比乌斯反演]]></title>
+        <id>https://bambusoideae.cn/2020/07/16/mobius-inversion-formula/</id>
+        <link href="https://bambusoideae.cn/2020/07/16/mobius-inversion-formula/">
+        </link>
+        <updated>2020-07-15T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[迪利克雷卷积的性质以及莫比乌斯反演的入门。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[红黑树入门]]></title>
+        <id>https://bambusoideae.cn/2020/08/17/red-black-tree/</id>
+        <link href="https://bambusoideae.cn/2020/08/17/red-black-tree/">
+        </link>
+        <updated>2020-08-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[其实没有想象中的那么难。]]></summary>
+    </entry>
+</feed>

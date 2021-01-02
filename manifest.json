@@ -1,0 +1,21 @@
+{
+	"name": "Bambusoideae's Blog",
+	"short_name": "Bambusoideae's Blog",
+	"start_url": "index.html",
+	"display": "standalone",
+	"background_color": "#000000",
+	"description": "一个OIer的仓库",
+	"theme_color": "black",
+	"icons": [
+		{
+			"src": "./favicon.ico",
+			"sizes": "32x32",
+			"type": "image/x-icon"
+		}
+	],
+	"related_applications": [
+		{
+			"platform": "web"
+		}
+	]
+}

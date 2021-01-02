@@ -1,0 +1,82 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bambusoideae's Blog",
+    "home_page_url": "https://bambusoideae.cn/",
+    "feed_url": "https://bambusoideae.cn/feed.json",
+    "description": "一个专门存放 OI 方面的博文的博客。",
+    "items": [
+        {
+            "id": "https://bambusoideae.cn/2019/11/24/csp-s-2019/",
+            "url": "https://bambusoideae.cn/2019/11/24/csp-s-2019/",
+            "title": "CSP-S 2019游记",
+            "summary": "算是打酱油吧。",
+            "image": "https://bambusoideae.cn/image/posts/Contests/CSP/CSP-S-2019.html/1.png",
+            "date_modified": "2019-11-24T00:00:00.000Z"
+        },
+        {
+            "id": "https://bambusoideae.cn/2019/06/01/my-second-blog/",
+            "url": "https://bambusoideae.cn/2019/06/01/my-second-blog/",
+            "title": "我的第二个博客",
+            "summary": "博客介绍。",
+            "date_modified": "2019-05-31T16:00:00.000Z"
+        },
+        {
+            "id": "https://bambusoideae.cn/2019/11/24/csp-j-2019/",
+            "url": "https://bambusoideae.cn/2019/11/24/csp-j-2019/",
+            "title": "CSP-J 2019游记",
+            "summary": "梦开始的地方。",
+            "date_modified": "2019-11-24T00:00:00.000Z"
+        },
+        {
+            "id": "https://bambusoideae.cn/2019/06/08/bit/",
+            "url": "https://bambusoideae.cn/2019/06/08/bit/",
+            "title": "树状数组学习笔记",
+            "date_modified": "2019-06-07T16:00:00.000Z"
+        },
+        {
+            "id": "https://bambusoideae.cn/2019/07/08/how-to-use-git/",
+            "url": "https://bambusoideae.cn/2019/07/08/how-to-use-git/",
+            "title": "Git教程",
+            "summary": "Git的基本配置与使用。",
+            "image": "https://raw.githubusercontent.com/Bambusaceae/images/master/%E6%89%B9%E6%B3%A8%202019-07-28%20091507.jpg",
+            "date_modified": "2019-07-07T16:00:00.000Z"
+        },
+        {
+            "id": "https://bambusoideae.cn/2020/01/19/luogu-p1165/",
+            "url": "https://bambusoideae.cn/2020/01/19/luogu-p1165/",
+            "title": "[Solution]日志分析",
+            "summary": "Luogu P1165",
+            "date_modified": "2020-01-18T16:00:00.000Z"
+        },
+        {
+            "id": "https://bambusoideae.cn/2019/08/17/emoji/",
+            "url": "https://bambusoideae.cn/2019/08/17/emoji/",
+            "title": "各种Emoji的HTML代码",
+            "summary": "教您在HTML页面中优雅地使用Emoji。",
+            "date_modified": "2019-08-16T16:00:00.000Z"
+        },
+        {
+            "id": "https://bambusoideae.cn/2020/02/21/fft-and-ntt/",
+            "url": "https://bambusoideae.cn/2020/02/21/fft-and-ntt/",
+            "title": "FFT&NTT",
+            "summary": "FFT and NTT",
+            "image": "https://i.loli.net/2020/02/21/l2tg6HQANhu8ydq.png",
+            "date_modified": "2020-02-20T16:00:00.000Z"
+        },
+        {
+            "id": "https://bambusoideae.cn/2020/07/16/mobius-inversion-formula/",
+            "url": "https://bambusoideae.cn/2020/07/16/mobius-inversion-formula/",
+            "title": "莫比乌斯反演",
+            "summary": "迪利克雷卷积的性质以及莫比乌斯反演的入门。",
+            "date_modified": "2020-07-15T16:00:00.000Z"
+        },
+        {
+            "id": "https://bambusoideae.cn/2020/08/17/red-black-tree/",
+            "url": "https://bambusoideae.cn/2020/08/17/red-black-tree/",
+            "title": "红黑树入门",
+            "summary": "其实没有想象中的那么难。",
+            "image": "https://cdn.luogu.com.cn/upload/image_hosting/liy3pn1q.png",
+            "date_modified": "2020-08-16T16:00:00.000Z"
+        }
+    ]
+}
