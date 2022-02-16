@@ -1,5 +1,5 @@
 {
-    "list": ["about", "daily-2022-02-14"],
+    "list": ["about", "solution-luogu-p1079", "solution-luogu-p3076", "solution-luogu-p3132", "solution-luogu-p3112", "solution-luogu-p4342", "solution-luogu-p3205", "daily-2022-02-14"],
     "config": {
     	"about": {
     		"title": "关于本博客",
@@ -8,6 +8,30 @@
         "daily-2022-02-14" : {
             "title": "2022 年 2 月 14 日做题记录",
             "tags": ["每日","做题记录", "贪心", "可撤销贪心", "CF730I", "AT2672", "SP1553", "P3620", "P1792", "P3545", "P2107", "CF865D"]
+        },
+        "solution-luogu-p3205": {
+            "title": "洛谷 P3205 [HNOI2010]合唱队 解题报告",
+            "tags": ["解题报告", "动态规划", "区间 DP"]
+        },
+        "solution-luogu-p4342": {
+            "title": "洛谷 P4342 [IOI1998]Polygon 解题报告",
+            "tags": ["解题报告", "动态规划", "区间 DP"]
+        },
+        "solution-luogu-p3112": {
+            "title": "洛谷 P3112 [USACO14DEC]Guard Mark G 解题报告",
+            "tags": ["解题报告", "贪心", "搜索"]
+        },
+        "solution-luogu-p3132": {
+            "title": "洛谷 P3132 [USACO16JAN]Angry Cows G 解题报告",
+            "tags": ["解题报告", "贪心", "二分", "递推"]
+        },
+        "solution-luogu-p3076": {
+            "title": "洛谷 P3076 [USACO13FEB]Taxi G 解题报告",
+            "tags": ["解题报告", "贪心"]
+        },
+        "solution-luogu-p1079": {
+            "title": "洛谷 P1709 [USACO5.5]隐藏口令Hidden Password 解题报告",
+            "tags": ["解题报告", "贪心", "字符串", "最小表示法"]
         }
     }
 }
