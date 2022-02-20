@@ -1,5 +1,17 @@
 {
-    "list": ["about", "algo-euclidean", "solution-luogu-p1079", "solution-luogu-p3076", "solution-luogu-p3132", "solution-luogu-p3112", "solution-luogu-p4342", "solution-luogu-p3205", "daily-2022-02-14"],
+    "list": [
+        "about",
+        "solution-cf-1628c",
+        "solution-cf-1396c",
+        "algo-euclidean",
+        "solution-luogu-p1079",
+        "solution-luogu-p3076",
+        "solution-luogu-p3132",
+        "solution-luogu-p3112",
+        "solution-luogu-p4342",
+        "solution-luogu-p3205",
+        "daily-2022-02-14"
+    ],
     "config": {
     	"about": {
     		"title": "关于本博客",
@@ -35,7 +47,15 @@
         },
         "algo-euclidean": {
             "title": "类欧几里德算法",
-            "tags": ["数学", "数论"]
+            "tags": ["学习笔记", "数学", "数论"]
+        },
+        "solution-cf-1396c": {
+            "title": "Codeforces 1396C Monster Invaders 解题报告",
+            "tags": ["解题报告", "贪心", "动态规划"]
+        },
+        "solution-cf-1628c": {
+            "title": "Codeforces 1628C Grid Xor 解题报告",
+            "tags": ["解题报告", "贪心", "构造"]
         }
     }
 }
