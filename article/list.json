@@ -1,6 +1,7 @@
 {
     "list": [
         "about",
+        "solution-agc043c",
         "solution-cf-1628c",
         "solution-cf-1396c",
         "algo-euclidean",
@@ -56,6 +57,10 @@
         "solution-cf-1628c": {
             "title": "Codeforces 1628C Grid Xor 解题报告",
             "tags": ["解题报告", "贪心", "构造"]
+        },
+        "solution-agc043c": {
+            "title": "AGC043C Giant Graph 解题报告",
+            "tags": ["解题报告", "贪心", "图论", "博弈论", "SG 函数", "奇怪的技巧"]
         }
     }
 }
