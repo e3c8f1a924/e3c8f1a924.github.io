@@ -1,6 +1,7 @@
 {
     "list": [
         "about",
+        "solution-agc001e",
         "solution-agc043c",
         "solution-cf-1628c",
         "solution-cf-1396c",
@@ -61,6 +62,10 @@
         "solution-agc043c": {
             "title": "AGC043C Giant Graph 解题报告",
             "tags": ["解题报告", "贪心", "图论", "博弈论", "SG 函数", "奇怪的技巧"]
+        },
+        "solution-agc001e": {
+            "title": "AGC001E BBQ Hard 解题报告",
+            "tags": ["解题报告", "组合数学", "组合意义", "动态规划"]
         }
     }
 }
