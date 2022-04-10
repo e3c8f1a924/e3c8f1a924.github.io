@@ -1,6 +1,8 @@
 {
     "list": [
         "about",
+        "solution-cf526d",
+        "solution-p4824",
         "solution-arc078c",
         "solution-arc102c",
         "solution-agc001e",
@@ -76,6 +78,14 @@
         "solution-arc078c": {
             "title": "ARC078C Awkward Response 解题报告",
             "tags": ["解题报告", "交互题"]
+        },
+        "solution-cf526d": {
+            "title": "Codeforces 526D Om Nom and Necklace 解题报告",
+            "tags": ["解题报告", "字符串", "KMP"]
+        },
+        "solution-p4824": {
+            "title": "P4824 [USACO15FEB] Censoring S 解题报告",
+            "tags": ["解题报告", "字符串", "KMP", "栈"]
         }
     }
 }
